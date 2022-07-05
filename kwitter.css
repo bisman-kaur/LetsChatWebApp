@@ -1,0 +1,102 @@
+html,body
+{
+	height: 100%;
+	margin: 0;
+}
+
+body
+{
+	background-color: #FBAD8B;
+	text-align: center;
+}
+
+.logo
+{
+	height:200px;
+	width:200px;
+}
+
+.images
+{
+	height:100px;
+	width:100px;
+}
+
+.header
+{
+	color: #ff6700;
+}
+
+.form-control
+{
+	width: 50%;
+}
+
+h3
+{
+	color:white;
+
+}
+
+h4
+{
+	color:white;
+}
+
+#login_button{
+	background-color: transparent;
+	color:white;
+	border: #ff6700;
+	border-style: solid;
+	border-radius: 25%;
+	border-width: 5px;
+}
+
+#logout{
+	float:left;
+	background-color: transparent;
+	color:white;
+	border: #ff6700;
+	border-style: solid;
+	border-radius: 25%;
+	border-width: 5px;
+}
+
+#room_name{
+	margin-bottom: 50px;
+}
+
+#addroombutton{
+	background-color: transparent;
+	color:white;
+	border: #ff6700;
+	border-style: solid;
+	border-radius: 25%;
+	border-width: 5px;
+}
+
+.color_white
+{
+	color: white
+}
+
+.buttons
+{
+	background-color: transparent;
+	color:white;
+	border: #fa6a0a;
+	border-style: solid;
+	border-radius: 25%;
+	border-width: 5px;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: #fcbb90;border-radius: 15px;
+}
+
+.user_tick
+{
+	width:30px;
+	height:30px;
+}
